@@ -1,7 +1,7 @@
 {
-  "name": "navigation-and-routing",
+  "name": "tv-shows",
   "version": "1.0.0",
-  "description": "",
+  "description": "Routing & Navigation PoC",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
